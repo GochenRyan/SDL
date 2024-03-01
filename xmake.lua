@@ -36,3 +36,4 @@ target("SDL3")
         end
     end)
     
+    set_group("Vendor")
